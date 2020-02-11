@@ -1,0 +1,158 @@
+flight_no,airline,dep_time,duration,stop,arr_time,price1
+6E-5001 ,IndiGo ,07:20,2h 55m,0 Stop,10:15,3141
+G8-423/503 ,Go Airlines (India) Pvt Ltd ,07:30,4h 45m,1 Stop,12:15,3171
+G8-425/503 ,Go Airlines (India) Pvt Ltd ,05:55,6h 20m,1 Stop,12:15,3171
+I5-763 ,AirAsia (India) ,14:30,2h 55m,0 Stop,17:25,3482
+I5-761 ,AirAsia (India) ,05:10,2h 55m,0 Stop,08:05,3482
+6E-2028 ,IndiGo ,15:05,2h 50m,0 Stop,17:55,3504
+6E-2403 ,IndiGo ,03:45,2h 55m,0 Stop,06:40,3504
+AI-142 ,Air India ,12:30,2h 55m,0 Stop,15:25,3597
+SG-107 ,SpiceJet Ltd ,06:05,2h 55m,0 Stop,09:00,3672
+SG-103 ,SpiceJet Ltd ,15:00,3h 0m,0 Stop,18:00,3672
+I5-765 ,AirAsia (India) ,18:25,2h 45m,0 Stop,21:10,3680
+AI-104/546 ,Air India ,13:15,9h 20m,1 Stop,22:35,3930
+AI-126/546 ,Air India ,17:15,5h 20m,1 Stop,22:35,3930
+6E-5006 ,IndiGo ,02:00,2h 55m,0 Stop,04:55,3960
+6E-2519 ,IndiGo ,21:45,2h 55m,0 Stop,00:40,3960
+6E-2315 ,IndiGo ,16:20,2h 55m,0 Stop,19:15,3960
+SG-105 ,SpiceJet Ltd ,20:25,2h 55m,0 Stop,23:20,3972
+SG-472/3706 ,SpiceJet Ltd ,21:35,9h 40m,1 Stop,07:15,3990
+AI-439 ,Air India ,06:00,2h 55m,0 Stop,08:55,4017
+AI-42 ,Air India ,17:20,2h 40m,0 Stop,20:00,4017
+G8-544/305 ,Go Airlines (India) Pvt Ltd ,22:45,9h 0m,1 Stop,07:45,4145
+6E-5008 ,IndiGo ,09:55,2h 50m,0 Stop,12:45,4436
+6E-2859 ,IndiGo ,08:25,2h 55m,0 Stop,11:20,4436
+6E-6752 ,IndiGo ,13:20,5h 5m,0 Stop,18:25,4436
+6E-2162 ,IndiGo ,20:35,2h 55m,0 Stop,23:30,4436
+6E-2124 ,IndiGo ,18:05,2h 50m,0 Stop,20:55,4436
+AI-126/988 ,Air India ,17:15,15h 45m,1 Stop,09:00,4438
+AI-104/988 ,Air India ,13:15,19h 45m,1 Stop,09:00,4438
+AI-839/988 ,Air India ,21:10,11h 50m,1 Stop,09:00,4438
+AI-560/988 ,Air India ,07:05,25h 55m,1 Stop,09:00,4438
+AI-560/546 ,Air India ,07:05,15h 30m,1 Stop,22:35,4438
+AI-839/546 ,Air India ,21:10,25h 25m,1 Stop,22:35,4438
+I5-721/2389 ,AirAsia (India) ,20:45,11h 40m,1 Stop,08:25,4536
+I5-738/2383 ,AirAsia (India) ,04:55,13h 35m,1 Stop,18:30,4536
+I5-740/2383 ,AirAsia (India) ,07:55,10h 35m,1 Stop,18:30,4536
+I5-740/346 ,AirAsia (India) ,07:55,8h 5m,1 Stop,16:00,4536
+I5-738/346 ,AirAsia (India) ,04:55,11h 5m,1 Stop,16:00,4536
+AI-429 ,Air India ,09:45,2h 55m,0 Stop,12:40,4647
+AI-540 ,Air India ,20:40,2h 55m,0 Stop,23:35,4647
+SG-8709/6287 ,SpiceJet Ltd ,18:35,8h 5m,1 Stop,02:40,4664
+AI-678/570 ,Air India ,09:00,22h 30m,1 Stop,07:30,4668
+AI-665/570 ,Air India ,08:00,23h 30m,1 Stop,07:30,4668
+AI-863/570 ,Air India ,23:00,8h 30m,1 Stop,07:30,4668
+AI-191/570 ,Air India ,21:00,10h 30m,1 Stop,07:30,4668
+AI-349/570 ,Air India ,03:50,27h 40m,1 Stop,07:30,4668
+AI-102/570 ,Air India ,16:55,14h 35m,1 Stop,07:30,4668
+AI-887/570 ,Air India ,07:00,24h 30m,1 Stop,07:30,4668
+AI-805/570 ,Air India ,20:00,11h 30m,1 Stop,07:30,4668
+G8-717/912 ,Go Airlines (India) Pvt Ltd ,16:50,8h 10m,1 Stop,01:00,4704
+6E-2685 ,IndiGo ,06:20,2h 55m,0 Stop,09:15,4836
+G8-338/303 ,Go Airlines (India) Pvt Ltd ,10:35,10h 5m,1 Stop,20:40,4902
+G8-336/303 ,Go Airlines (India) Pvt Ltd ,14:25,6h 15m,1 Stop,20:40,4902
+AI-542/546 ,Air India ,09:45,12h 50m,1 Stop,22:35,4963
+AI-542/988 ,Air India ,09:45,23h 15m,1 Stop,09:00,4963
+AI-102/671 ,Air India ,16:55,18h ,1 Stop,10:55,4983
+AI-349/671 ,Air India ,03:50,7h 05m,1 Stop,10:55,4983
+AI-863/671 ,Air India ,23:00,11h 55m,1 Stop,10:55,4983
+AI-805/671 ,Air India ,20:00,14h 55m,1 Stop,10:55,4983
+AI-191/671 ,Air India ,21:00,13h 55m,1 Stop,10:55,4983
+SG-8709/679 ,SpiceJet Ltd ,18:35,6h 10m,1 Stop,00:45,5040
+SG-8287/611 ,SpiceJet Ltd ,23:35,9h 45m,1 Stop,09:20,5040
+SG-8169/6287 ,SpiceJet Ltd ,19:45,6h 55m,1 Stop,02:40,5401
+SG-8705/6287 ,SpiceJet Ltd ,20:30,6h 10m,1 Stop,02:40,5401
+SG-8193/186 ,SpiceJet Ltd ,18:55,5h 25m,1 Stop,00:20,5434
+G8-275/633 ,Go Airlines (India) Pvt Ltd ,19:50,5h 5m,1 Stop,00:55,5445
+G8-171/633 ,Go Airlines (India) Pvt Ltd ,18:20,6h 35m,1 Stop,00:55,5445
+G8-2513/633 ,Go Airlines (India) Pvt Ltd ,16:35,8h 20m,1 Stop,00:55,5445
+SG-197/3318 ,SpiceJet Ltd ,17:25,5h 30m,1 Stop,22:55,5497
+SG-197/3310 ,SpiceJet Ltd ,17:25,6h 10m,1 Stop,23:35,5497
+SG-8719/3310 ,SpiceJet Ltd ,18:25,5h 10m,1 Stop,23:35,5497
+SG-8161/679 ,SpiceJet Ltd ,15:50,8h 55m,1 Stop,00:45,5777
+UK-955/821 ,Vistara ,17:45,14h 15m,1 Stop,08:00,5807
+UK-945/827 ,Vistara ,11:40,11h 20m,1 Stop,23:00,5807
+UK-977/825 ,Vistara ,18:55,16h 55m,1 Stop,11:50,5807
+UK-995/827 ,Vistara ,10:20,12h 40m,1 Stop,23:00,5807
+UK-975/823 ,Vistara ,06:00,14h ,1 Stop,20:00,5807
+UK-985/825 ,Vistara ,19:45,16h 05m,1 Stop,11:50,5807
+UK-923/823 ,Vistara ,06:40,13h 20m,1 Stop,20:00,5807
+UK-927/827 ,Vistara ,09:30,13h 30m,1 Stop,23:00,5807
+UK-933/827 ,Vistara ,15:30,7h 30m,1 Stop,23:00,5807
+UK-955/827 ,Vistara ,17:45,5h 15m,1 Stop,23:00,5807
+UK-993/827 ,Vistara ,12:50,10h 10m,1 Stop,23:00,5807
+UK-953/825 ,Vistara ,20:40,15h 10m,1 Stop,11:50,5807
+UK-975/825 ,Vistara ,06:00,5h 50m,1 Stop,11:50,5807
+UK-981/825 ,Vistara ,21:40,14h 10m,1 Stop,11:50,5807
+UK-963/823 ,Vistara ,08:50,11h 10m,1 Stop,20:00,5807
+UK-977/821 ,Vistara ,18:55,13h 05m,1 Stop,08:00,5807
+UK-923/827 ,Vistara ,06:40,16h 20m,1 Stop,23:00,5807
+UK-933/821 ,Vistara ,15:30,16h 30m,1 Stop,08:00,5807
+UK-995/823 ,Vistara ,10:20,9h 40m,1 Stop,20:00,5807
+UK-941/821 ,Vistara ,16:55,15h 05m,1 Stop,08:00,5807
+UK-985/821 ,Vistara ,19:45,12h 15m,1 Stop,08:00,5807
+UK-945/823 ,Vistara ,11:40,8h 20m,1 Stop,20:00,5807
+UK-981/821 ,Vistara ,21:40,10h 20m,1 Stop,08:00,5807
+UK-941/827 ,Vistara ,16:55,6h 05m,1 Stop,23:00,5807
+UK-963/827 ,Vistara ,08:50,14h 10m,1 Stop,23:00,5807
+UK-927/823 ,Vistara ,09:30,10h 30m,1 Stop,20:00,5807
+UK-923/825 ,Vistara ,06:40,5h 10m,1 Stop,11:50,5807
+UK-953/821 ,Vistara ,20:40,11h 20m,1 Stop,08:00,5807
+UK-993/823 ,Vistara ,12:50,7h 10m,1 Stop,20:00,5807
+UK-837 ,Vistara ,17:25,2h 50m,0 Stop,20:15,5865
+UK-835 ,Vistara ,19:55,2h 50m,0 Stop,22:45,5865
+UK-833 ,Vistara ,07:20,2h 50m,0 Stop,10:10,5865
+SG-8717/1233 ,SpiceJet Ltd ,11:55,7h 25m,1 Stop,19:20,5911
+AI-20/765 ,Air India ,14:15,26h 50m,1 Stop,17:05,5980
+AI-22/765 ,Air India ,20:15,20h 50m,1 Stop,17:05,5980
+AI-401/765 ,Air India ,06:50,10h 15m,1 Stop,17:05,5980
+SG-8392/626 ,SpiceJet Ltd ,13:00,7h 15m,1 Stop,20:15,6065
+SG-263/431 ,SpiceJet Ltd ,05:55,7h 40m,1 Stop,13:35,6065
+SG-272/277 ,SpiceJet Ltd ,09:25,8h 5m,1 Stop,17:30,6065
+SG-8938/423 ,SpiceJet Ltd ,16:55,8h 0m,1 Stop,00:55,6150
+AI-547/539 ,Air India ,21:15,19h ,1 Stop,16:15,6190
+AI-547/9566 ,Air India ,21:15,11h 45m,1 Stop,09:00,6274
+AI-547/9554 ,Air India ,21:15,25h 50m,1 Stop,23:05,6274
+6E-683 ,IndiGo ,07:35,4h 45m,0 Stop,12:20,6894
+UK-812/622/827 ,Vistara ,13:20,9h 40m,2 Stop,23:00,7428
+AI-933/510 ,Air India ,05:10,13h 45m,1 Stop,18:55,7584
+SG-8144/3266 ,SpiceJet Ltd ,17:55,5h 45m,1 Stop,23:40,7743
+AI-263/968 ,Air India ,05:15,26h 10m,1 Stop,07:25,7954
+SG-946/432 ,SpiceJet Ltd ,13:50,4h 55m,1 Stop,18:45,8028
+UK-941/827 ,Vistara ,16:55,6h 05m,1 Stop,23:00,8134
+UK-923/825 ,Vistara ,06:40,5h 10m,1 Stop,11:50,8134
+UK-975/825 ,Vistara ,06:00,5h 50m,1 Stop,11:50,8134
+UK-993/827 ,Vistara ,12:50,10h 10m,1 Stop,23:00,8134
+UK-933/827 ,Vistara ,15:30,7h 30m,1 Stop,23:00,8134
+UK-953/821 ,Vistara ,20:40,11h 20m,1 Stop,08:00,8134
+UK-927/827 ,Vistara ,09:30,13h 30m,1 Stop,23:00,8134
+UK-981/825 ,Vistara ,21:40,14h 10m,1 Stop,11:50,8134
+UK-963/823 ,Vistara ,08:50,11h 10m,1 Stop,20:00,8134
+UK-945/823 ,Vistara ,11:40,8h 20m,1 Stop,20:00,8134
+UK-985/825 ,Vistara ,19:45,16h 05m,1 Stop,11:50,8134
+UK-923/823 ,Vistara ,06:40,13h 20m,1 Stop,20:00,8134
+UK-995/823 ,Vistara ,10:20,9h 40m,1 Stop,20:00,8134
+UK-977/821 ,Vistara ,18:55,13h 05m,1 Stop,08:00,8134
+UK-955/821 ,Vistara ,17:45,14h 15m,1 Stop,08:00,8134
+UK-933/821 ,Vistara ,15:30,16h 30m,1 Stop,08:00,8134
+UK-927/823 ,Vistara ,09:30,10h 30m,1 Stop,20:00,8134
+UK-953/825 ,Vistara ,20:40,15h 10m,1 Stop,11:50,8134
+UK-993/823 ,Vistara ,12:50,7h 10m,1 Stop,20:00,8134
+UK-955/827 ,Vistara ,17:45,5h 15m,1 Stop,23:00,8134
+UK-981/821 ,Vistara ,21:40,10h 20m,1 Stop,08:00,8134
+UK-963/827 ,Vistara ,08:50,14h 10m,1 Stop,23:00,8134
+UK-975/823 ,Vistara ,06:00,14h ,1 Stop,20:00,8134
+UK-977/825 ,Vistara ,18:55,16h 55m,1 Stop,11:50,8134
+UK-995/827 ,Vistara ,10:20,12h 40m,1 Stop,23:00,8134
+UK-941/821 ,Vistara ,16:55,15h 05m,1 Stop,08:00,8134
+UK-923/827 ,Vistara ,06:40,16h 20m,1 Stop,23:00,8134
+UK-945/827 ,Vistara ,11:40,11h 20m,1 Stop,23:00,8134
+UK-985/821 ,Vistara ,19:45,12h 15m,1 Stop,08:00,8134
+SG-8171/2892 ,SpiceJet Ltd ,11:30,9h 30m,1 Stop,21:00,8896
+SG-471/734 ,SpiceJet Ltd ,08:45,7h 30m,1 Stop,16:15,8928
+UK-812/622/827 ,Vistara ,13:20,9h 40m,2 Stop,23:00,9408
+AI-485/550 ,Air India ,05:30,28h 40m,1 Stop,10:10,12028
+UK-847/910/823 ,Vistara ,11:10,8h 50m,2 Stop,20:00,13835
+AI-48/968 ,Air India ,18:05,13h 20m,1 Stop,07:25,23620
+UK-747/834 ,Vistara ,06:15,10h 15m,1 Stop,16:30,24145
+AI-48/510 ,Air India ,18:05,24h 50m,1 Stop,18:55,24279
